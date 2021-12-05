@@ -1,0 +1,151 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:black;
+}
+canvas {
+  display: block;
+}
+.o{
+  background-image:url("sonakshi.jpg");
+  padding:23px;
+    border:14px, black;
+  background-size:cover;
+  
+  border-radius:02px;
+}
+.p{
+  background-image:url("c1.jpg");
+  padding:23px;
+    border:14px, black;
+  background-size:cover;
+  
+  border-radius:02px;
+}
+.o2{
+  background-image:url("floral_axolotl___patreon_hq_wallpaper_by_cryptid_creations_dds1pvd-fullview.jpg");
+  padding:43px 13px;
+    border:14px, black;
+  background-size:cover;
+  font-size:25px;
+  border-radius:42px;
+}
+.o2:hover{
+transform:scale(1.1);
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.2), 0 63px 230px 0 rgba(0,0,0,0.19);
+}
+.o2r{
+  background-image:url("23.jpg");
+  padding:43px 13px;
+    border:14px, black;
+  background-size:cover;
+  font-size:25px;
+  border-radius:42px;
+}
+.o2r:hover{
+transform:scale(1.1);
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.2), 0 63px 230px 0 rgba(0,0,0,0.19);
+}
+.h{
+  color:orange;
+    font-size:54px;
+}
+
+.h:hover{
+  background-color:transparent;
+  transform:scale(1.03);
+box-shadow: 0 8px 16px 0 rgba(41, 242, 236), 0 63px 230px 0 rgba(41, 242, 236);
+  font-size:54px;
+}
+.k3h{
+  color:orange;
+   
+}
+.k3h:hover{
+  background-color:transparent;
+
+box-shadow: 0 8px 16px 0 rgba(41, 242, 236), 0 63px 230px 0 rgba(41, 242, 236);
+}
+.c{
+    background-image:url("cross.png");
+  padding:43px 13px;
+    border:14px, black;
+  background-size:cover;
+  font-size:25px;
+  border-radius:42px;
+  background-color:transparent;
+}
+.j{
+  color:white;
+}
+.j:hover{
+  background-color:transparent;
+
+box-shadow: 0 8px 16px 0 rgba(255, 0, 162), 0 63px 230px 0 rgba(255, 0, 162);
+ 
+}
+.c1{
+     background-image:url("glowing-animal-4k-g2.png");
+  padding:43px 13px;
+    border:14px, black;
+  background-size:cover;
+  font-size:25px;
+  border-radius:42px;
+  background-color:transparent;
+}
+.o3k{
+  padding:20px;
+
+  border-radius:230px;
+
+  color:aqua;
+        background-image:url(https://shrianshgoel.github.io/file-opener/p.png);
+  background-size:cover;
+         border: 5px solid white;
+     font-size:24px;
+ background-color:black
+}
+.o3k:hover{  transform: scale(1.2);}
+
+.o4k{
+  padding:20px;
+
+  border-radius:230px;
+
+  color:aqua;
+        background-image:url('https://shrianshgoel.github.io/file-opener/f.png');
+  background-size:cover;
+         border: 5px solid white;
+     font-size:24px;
+ 
+}
+
+.o4k:hover{  transform: scale(1.2);}
+.okd{
+  color:Orange;
+       font-size:24px;
+  background-color:black;
+}
+.a{
+font-size:24px;  
+color:Black;
+  background-color:Cyan;
+  text-decoration:none;
+}
+.p1{
+  background-image:url("7c1e06c4451f9c0966a3b3d7017c6485.gif");
+  padding:23px;
+    border:14px, black;
+  background-size:cover;
+  
+  border-radius:02px;
+}
+.u{
+  color:black;
+}
+.u:hover{
+  background-color:transparent;
+
+box-shadow: 0 8px 16px 0 rgba(67, 247, 124), 0 63px 230px 0 rgba(67, 247, 124);
+ 
+}
